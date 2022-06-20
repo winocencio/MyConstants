@@ -1,22 +1,36 @@
 [{
-    "marketHashName": "Antwerp%202022%20Legends%20Sticker%20Capsule"
+    "name": "Antwerp 2022 Legends Sticker Capsule",
+    "marketHashName": "Antwerp%202022%20Legends%20Sticker%20Capsule",
+    "itemNameId": "176313494"
   },
   {
-    "marketHashName": "Antwerp%202022%20Contenders%20Autograph%20Capsule"
+    "name": "Antwerp 2022 Contenders Autograph Capsule",
+    "marketHashName": "Antwerp%202022%20Contenders%20Autograph%20Capsule",
+    "itemNameId": "176313501"
   },
   {
-    "marketHashName": "Antwerp%202022%20Challengers%20Sticker%20Capsule"
+    "name": "Antwerp 2022 Challengers Sticker Capsule",
+    "marketHashName": "Antwerp%202022%20Challengers%20Sticker%20Capsule",
+    "itemNameId": "176313496"
   },
   {
-    "marketHashName": "Antwerp%202022%20Contenders%20Sticker%20Capsule"
+    "name": "Antwerp 2022 Contenders Sticker Capsule",
+    "marketHashName": "Antwerp%202022%20Contenders%20Sticker%20Capsule",
+    "itemNameId": "176313497"
   },
   {
-    "marketHashName": "Antwerp%202022%20Legends%20Autograph%20Capsule"
+    "name": "Antwerp 2022 Legends Autograph Capsule",
+    "marketHashName": "Antwerp%202022%20Legends%20Autograph%20Capsule",
+    "itemNameId": "176313498"
   },
   {
-    "marketHashName": "Antwerp%202022%20Champions%20Autograph%20Capsule"
+    "name": "Antwerp 2022 Champions Autograph Capsule",
+    "marketHashName": "Antwerp%202022%20Champions%20Autograph%20Capsule",
+    "itemNameId": "176316169"
   },
   {
-    "marketHashName": "Antwerp%202022%20Challengers%20Autograph%20Capsule"
+    "name": "Antwerp 2022 Challengers Autograph Capsule",
+    "marketHashName": "Antwerp%202022%20Challengers%20Autograph%20Capsule",
+    "itemNameId": "176313500"
   }
 ]
